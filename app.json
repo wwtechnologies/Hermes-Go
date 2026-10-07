@@ -26,6 +26,13 @@
     "plugins": [
       "expo-router",
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "23617906-eebf-4040-9117-1f6ecd4e3c88"
+      }
+    },
+    "owner": "wrightwaytech"
   }
 }
